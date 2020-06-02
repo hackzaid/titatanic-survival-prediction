@@ -10,8 +10,8 @@ The system analyzes the passenger manifest and attempt to understand why some di
 `$ python analysis.py`
 
 # Run web app
-`$ cd webapp\
-$ python main.py`
+`$ cd webapp\`
+`$ python main.py`
 
 # Open link in browser
 http://127.0.0.1:5000
