@@ -11,6 +11,7 @@ The system analyzes the passenger manifest and attempt to understand why some di
 
 # Run web app
 `$ cd webapp\`
+
 `$ python main.py`
 
 # Open link in browser
