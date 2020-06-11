@@ -15,3 +15,6 @@ The system analyzes the passenger manifest and attempt to understand why some di
 
 # Open link in browser
 http://127.0.0.1:5000
+
+# Demo App
+https://bit.ly/3cTIEy8
